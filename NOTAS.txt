@@ -1,0 +1,1 @@
+GIT é um Sistema de controlo de versões que regista mudanças no código de um projeto, cujo objetivo é facilitar o desenvolvimento colaborativo e pessoal. Temos o working directory, onde fazemos as mudanças; e temos o staging que guarda as versões de ficheiro para o próximo commit.
